@@ -1,5 +1,6 @@
-def main():
-  #print('You rolled a die')
+def primary():
+    print("Roll the dice")
+
 
 if __name__== "__main__":
-  main()
+    primary()
